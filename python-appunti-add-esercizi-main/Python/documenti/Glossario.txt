@@ -1,0 +1,20 @@
+La legge delle email ::
+    1)oggetto 
+    2)saluto 
+    3)copo del'email[Body]
+    4)saluti
+    5)firma[Nome;Cognome]
+--------------------------------------------------------
+
+- La Repository GitHub serve come nostro curriculum
+- Informatica e composta da due(2) parole 
+     1)informazione
+     2)automatica
+
+--------------------------------------------------------
+
+Python e dotato di una vastissima libreria alcune di queste sono ::
+     MatplotLibe
+     Geopandas
+     Folium
+     
