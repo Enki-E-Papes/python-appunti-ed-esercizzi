@@ -1,3 +1,8 @@
+(Net)iquiette/Netiquiette = è una crasi fomata dalle parole Net e Etiquiette ,ed è il modo di comportarsi nella rete 
+nel caso delle email questa deve contenere le seguenti sezioni
+
+--------------------------------------------------------
+
 La legge delle email ::
     1)oggetto 
     2)saluto 
@@ -7,14 +12,56 @@ La legge delle email ::
 --------------------------------------------------------
 
 - La Repository GitHub serve come nostro curriculum
+
+-------------------------------------------------------
+
 - Informatica e composta da due(2) parole 
      1)informazione
      2)automatica
 
 --------------------------------------------------------
 
+lINGUAGGIO DI PROGRAMMAZIONE::
+insieme di istruzioni che possono essere usate per produrre dati in uscita
+
+--------------------------------------------------------
+
+LINGUAGGIO  COMPILATO
+     un linguaggio di programmazione implementato di solito tramite un compilatore
+     (un traduttore che converte il codice sorgente in codice macchina), invece di
+     un interprete (che esegue direttamente il codice sorgente).
+     
+Es::
+V.B,C#,C++
+     
+     
+LINGUAGGIO Interpretato ::     
+è un programma in grado di eseguire altri programmi a partire direttamente dal relativo codice sorgente scritto in un linguaggio di alto livello, senza la previa compilazione dello stesso (codice oggetto), eseguendo cioè le istruzioni nel linguaggio usato traducendole di volta in volta in istruzioni in linguaggio macchina del processore.
+
+Es::
+Python,PHP
+
+Linguagio Tipizzato
+  --------------------------------------------------------
+ CASTING ::
+  --------------------------------------------------------
+ COMMIT::
+  --------------------------------------------------------
+ ROLL BACK::
+  
+LIBRERIA ::
 Python e dotato di una vastissima libreria alcune di queste sono ::
      MatplotLibe
      Geopandas
      Folium
      
+ --------------------------------------------------------
+ 
+ Dato 
+ 
+ Informazione 
+ 
+ Machine Learning ::
+     è una forma di IA("intelligenza Artificiale") che effettua 
+     previsioni a partire dai dati.
+ 
